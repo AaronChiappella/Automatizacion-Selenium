@@ -1,0 +1,24 @@
+2024-11-05 08:56:44,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 08:57:37,891 - INFO - Archivo procesado: _REC_Nº_326_15 - Copia 2.pdf
+2024-11-05 08:58:27,968 - INFO - Archivo procesado: _REC_Nº_512_24.pdf
+2024-11-05 08:59:17,120 - INFO - Archivo procesado: _REC_Nº_519_24.pdf
+2024-11-05 08:59:17,120 - INFO - Proceso completado. Los archivos nuevos fueron procesados y registrados.
+2024-11-05 08:59:17,121 - INFO - Archivo CSV encontrado: C:\Users\aaron\Desktop\AUTOMATIZACION\ULTIMA VERSION\resumen-archivos-drive-main\csv_reports\resumen_05-11-2024.csv
+2024-11-05 08:59:17,258 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 09:01:46,579 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 09:01:50,331 - INFO - Proceso completado. Los archivos nuevos fueron procesados y registrados.
+2024-11-05 09:03:15,795 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 09:03:18,870 - INFO - Proceso completado. Los archivos nuevos fueron procesados y registrados.
+2024-11-05 09:03:18,870 - WARNING - No se encontró un archivo CSV en: C:\Users\aaron\Desktop\AUTOMATIZACION\ULTIMA VERSION\resumen-archivos-drive-main\csv_reports\resumen_05-11-2024.csv
+2024-11-05 09:04:25,508 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 09:05:18,713 - INFO - Archivo procesado: _REC_Nº_512_24.pdf
+2024-11-05 09:06:07,895 - INFO - Archivo procesado: _REC_Nº_519_24.pdf
+2024-11-05 09:06:07,896 - INFO - Proceso completado. Los archivos nuevos fueron procesados y registrados.
+2024-11-05 09:06:07,896 - INFO - Archivo CSV encontrado: C:\Users\aaron\Desktop\AUTOMATIZACION\ULTIMA VERSION\resumen-archivos-drive-main\csv_reports\resumen_05-11-2024.csv
+2024-11-05 09:06:07,901 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 09:38:02,160 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-05 09:38:58,572 - INFO - Archivo procesado: _REC_Nº_512_24.pdf
+2024-11-05 09:39:47,827 - INFO - Archivo procesado: _REC_Nº_519_24.pdf
+2024-11-05 09:39:47,828 - INFO - Proceso completado. Los archivos nuevos fueron procesados y registrados.
+2024-11-05 09:39:47,828 - INFO - Archivo CSV encontrado: C:\Users\aaron\Desktop\AUTOMATIZACION\ULTIMA VERSION\resumen-archivos-drive-main\csv_reports\resumen_05-11-2024.csv
+2024-11-05 09:39:47,832 - INFO - file_cache is only supported with oauth2client<4.0.0

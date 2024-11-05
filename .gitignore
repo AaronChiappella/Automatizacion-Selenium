@@ -1,0 +1,5 @@
+# Ignorar archivos sensibles
+*.pickle
+scripts/credentials/
+config.yaml
+.env
