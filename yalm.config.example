@@ -1,0 +1,22 @@
+# Rutas del proyecto
+paths:
+  downloads: "./downloads"
+  csv_reports: "./csv_reports"
+  logs: "./logs/processed_files.log"
+  credentials:
+    gmail: "./scripts/credentials/gmail/credentials.json"
+    drive: "./scripts/credentials/drive/credentials.json"
+
+# Configuración de Gmail
+email_settings:
+  sender_email: ""
+  recipients: [""]
+   
+# Credenciales para iniciar sesión en la IA POE
+credentials:
+  email: ""
+  password: ""
+
+  # Configuración de Google Drive
+google_drive:
+  folder_id: ""  # ID de la carpeta en Google Drive, se encuentra al final de la URL luego del ultimo /
